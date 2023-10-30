@@ -30,5 +30,5 @@ We need to have proper encoding and decoding to read the files properly.
 5. UTF-8 is the standard encoding in python. All data is encoded with that.
 
 ## Inconsistent Data
-
+We can use the fuzzywuzzy package to check for similar data and change it.
 
